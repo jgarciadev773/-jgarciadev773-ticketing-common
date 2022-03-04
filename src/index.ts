@@ -10,6 +10,4 @@ const color: Color = {
     blue: 1977
 };
 
-console.log(color);
-
 export default color;
